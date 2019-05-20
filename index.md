@@ -35,3 +35,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+---
+layout: frontpage
+title: Lyndon Meadow
+---
+
+I am a Masters student at the University of Kansas, my primary interests are programing languages/semantics, functional programing, formal verification, homotopy type theory, and domain specific languages.
+
+# Information
+-----
+
+Contact
+: meadowl \[at\] amc \[dot\] org
