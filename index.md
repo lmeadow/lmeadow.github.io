@@ -11,7 +11,7 @@
 </header>
 </div>
 
-Currenty a Masters student at the University of Kansas, my primary interests are programing languages/semantics, functional programing, formal verification, homotopy type theory, and domain specific languages.
+Currenty a Masters student at the University of Kansas, my primary interests are programming languages/semantics, functional programming, formal verification, homotopy type theory, and domain specific languages.
 
 # Get in Touch
 -----
