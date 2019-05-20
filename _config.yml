@@ -1,3 +1,7 @@
+baseurl: http://lyndon.meadow.name
 theme: jekyll-theme-tactile
-title: Welcome to lmeadow's homepage!
-description: Feel free to bookmark this to keep an eye on my project updates
+account: lmeadow
+github: https://github.com/lmeadow
+title: Lyndon Meadow
+description: Lyndon Meadow's website
+url: http://lmeadow.github.io
