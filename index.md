@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://lmeadow.github.io/Header.jpg)
+![Tori Gates](https://lmeadow.github.io/Header.jpg)
 ---
 # Information
 ----
