@@ -11,10 +11,15 @@
 </header>
 </div>
 
-I am a Masters student at the University of Kansas, my primary interests are programing languages/semantics, functional programing, formal verification, homotopy type theory, and domain specific languages.
+Currenty a Masters student at the University of Kansas, my primary interests are programing languages/semantics, functional programing, formal verification, homotopy type theory, and domain specific languages.
 
 # Get in Touch
 -----
 
 Contact
 : meadowl \[at\] amc \[dot\] org
+
+# Resume
+----
+
+My current [Resume](https://lmeadow.github.io/Resume.pdf) for any intrested parties.
