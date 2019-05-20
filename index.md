@@ -17,8 +17,10 @@ Currenty a Masters student at the University of Kansas, my primary interests are
 # Get in Touch
 -----
 
-Contact
+Contact <br>
 : meadowl \[at\] amc \[dot\] org
+<br>
+: [Linkedin Profile](https://www.linkedin.com/in/lyndon-meadow-a71231103/)
 
 # Code Base
 -----
