@@ -19,7 +19,12 @@ Currenty a Masters student at the University of Kansas, my primary interests are
 Contact
 : meadowl \[at\] amc \[dot\] org
 
+# Code Base
+-----
+
+For examples of my work, please visit my [GitHub](http://github.com/lmeadow).
+
 # Resume
-----
+-----
 
 My current [Resume](https://lmeadow.github.io/Resume.pdf) for any intrested parties.
