@@ -27,4 +27,4 @@ For examples of my work, please visit my [GitHub](http://github.com/lmeadow).
 # Resume
 -----
 
-My current [Resume](https://lmeadow.github.io/Resume.pdf) for any intrested parties.
+My current [Resume](https://lmeadow.github.io/Resume.pdf) for any interested parties.
