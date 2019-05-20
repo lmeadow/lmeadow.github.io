@@ -4,6 +4,7 @@
 ----
 <div>
 <header>
+<h1>Lyndon Meadow</h2>
 <h2>The University of Kansas</h2>
 <img width="133" height="159" alt="Lyndon Meadow" src="https://lmeadow.github.io/Profile.png">       
 <p></p>
